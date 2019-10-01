@@ -88,8 +88,8 @@ case $pil in
 
 # admin-finder
 
-2) git clone https://github.com/WhatTheSemvak/FbNyaBanyak
-cd FbNyaBanyak
+2) git clone https://github.com/WhatTheSemvak/HackFbBanyak
+cd HackFbBanyak
 sh Banyak.sh
 
 ;;
